@@ -1,4 +1,5 @@
-# Waves & Ice Cream:  Weather Analysis for June and December on Oaho
+# Waves & Ice Cream:  
+# Weather Analysis for June and December on Oaho
 
 ## Purpose
 
