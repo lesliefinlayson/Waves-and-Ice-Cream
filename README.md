@@ -6,6 +6,6 @@ A surf and ice cream shop has several requirements to be successful.  One of the
 
 ## Results
 
-_ June Weather in Oaho _
+_June Weather in Oaho 
 
 
