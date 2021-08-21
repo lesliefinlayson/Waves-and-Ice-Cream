@@ -23,10 +23,16 @@ The statistics for temperatures in Oaho in the month of December are:
 
 •	Mean temperatures
 
-  The mean temperature for JUne is 
+  The mean temperature for June is 75 degrees and the mean temperature for December is 71 degrees.  These warm temperatures are perfect for surfing and ice cream
 
 •	Minimum temperatures
 
+  The minimum temperature for June is 64 degress and the mimimum temperature for December is 56 degrees.  Cool weather happens in Oaho, certainly in December.  Offering wetsuits will help make surfing a possibility year-round and coffee and hot chocoloate might be added to the ice cream options.
+
 •	Maximum temperatures
+
+The maximum temperature for June is 85 degrees and the maximum temperatuare for December is 83 degrees.  Hotter weather is definitely condusive to surfing and ice cream.  Be prepared for business and have plenty of water available too.
+
+
 
 
