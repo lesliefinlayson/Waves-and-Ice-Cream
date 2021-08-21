@@ -23,6 +23,7 @@ The statistics for temperatures in Oaho in the month of December are:
 #### _Differences in the weather between June and December:
 
 •	Mean temperatures
+  The mean temperature for JUne is 
 
 •	Minimum temperatures
 
