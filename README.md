@@ -43,3 +43,5 @@ While the analysis for a surfing and ice cream shop are looking promising based 
 
 •	Cloud cover
 
+Analysis of these weather conditions, coupled with this analysis of temperature and the earlier analysis of precipitation, will provide an accurate view of Oahu's weather and if it is condusive year-round to outside activities such as surfing and warm-weather treats such as ice cream.  
+
