@@ -33,6 +33,13 @@ The statistics for temperatures in Oaho in the month of December are:
 
 The maximum temperature for June is 85 degrees and the maximum temperatuare for December is 83 degrees.  Hotter weather is definitely condusive to surfing and ice cream.  Be prepared for business and have plenty of water available too.
 
+## Summary
 
+Oaho is looking like a great choice for a surfing and ice cream shop.  The weather is warm year-round, as weather data analysis of June and December months show. While the temperatures in December are somewhat cooler than June, as to be expected, avid surfers and ice cream lovers will still enjoy the shop.  
 
+While the analysis for a surfing and ice cream shop are looking promising based on temperatures, it would be desireable to consider other weather factors such as:
+
+• Wind speed
+
+•	Cloud cover
 
